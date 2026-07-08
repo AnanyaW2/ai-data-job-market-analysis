@@ -39,7 +39,7 @@ This project analyzes a dataset of 1,500 AI/ML job postings covering 25 distinct
 |---|---|
 | `analysis.ipynb` | Python notebook — data cleaning, exploration, skills-parsing logic |
 | `ai_data_job_market.twbx` | Tableau packaged workbook (all 4 dashboards) |
-| `ai_jobs_market_2025_2026.csv` | Raw dataset (if included) |
+| `ai_jobs_market_2025_2026.csv` | Raw dataset |
 
 ## Tools
 
